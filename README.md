@@ -1,25 +1,21 @@
 ### ✨ Hi there, I'm Fred - aka [boostup][website] ✨
 
-## 🌱 I'm a Lover, Developer, and [Self-Therapist][selftherapistwebsite]
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="Medium" width="22px" src="https://cdn-static-1.medium.com/_/fp/icons/favicon-rebrand-medium.3Y6xpZ-0FSdWDnPM3hSBIA.ico" />][selftherapistwebsite]
+[<img align="left" alt="Codepen" width="22px" src="https://static.codepen.io/assets/favicon/favicon-aec34940fbc1a6e787974dcd360f2c6b63348d4b1f4e06c77743096d55480f33.ico" />][codepenprofile]
+
+---
+
+<br />
+
+### 🌱 I'm a Lover, Developer, and [Self-Therapist][selftherapistwebsite]
 
 - 💻 I’m currently working on a [E-commerce][regaliawebsite] app for my portfolio !
 - 🤔 I’m learning about ThreeJS, GastbyJS, GraphQL 🤣
 - 🔭 2021 Goals: Contribute to Open Source projects
 - ⚡ Fun fact: I love to play piano / guitar, meditate | I'm passionate about bringing 3D into conventional web apps when it is relevant
-
-<br />
-<br />
-
-### Connect with me:
-
-[<img align="left" alt="boostup.github.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Medium" width="22px" src="https://cdn-static-1.medium.com/_/fp/icons/favicon-rebrand-medium.3Y6xpZ-0FSdWDnPM3hSBIA.ico" />][selftherapistwebsite]
-
-<br />
-<br />
 
 ### Languages and Tools:
 
@@ -41,6 +37,7 @@
 
 [website]: https://boostup.github.io
 [regaliawebsite]: https://fervent-snyder-0eb669.netlify.app/#/
+[codepenprofile]: https://codepen.io/b00stup
 [selftherapistwebsite]: https://medium.com/auto-th%C3%A9rapeute-self-therapist
 [twitter]: https://twitter.com/HugoC45785
 [youtube]: https://www.youtube.com/channel/UCK52WvY8Li7E9wkG4NCW-Zw/playlists
