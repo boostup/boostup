@@ -17,10 +17,20 @@
 - 🔭 2021 Goals: Contribute to Open Source projects
 - ⚡ Fun fact: I love to play piano / guitar, meditate | I'm passionate about bringing 3D into conventional web apps when it is relevant
 
-### Blog posts
+### Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<!-- DEV-TO-BLOG-POST-LIST:START -->
+<!-- DEV-TO-BLOG-POST-LIST:END -->
+
+### Dev Videos Recently Watched
+
+<!-- YT-PL-DEV-2020:START -->
+<!-- YT-PL-DEV-2020:END -->
+
+### Auto-Thérapeute
+
+<!-- ST-BLOG-POST-LIST:START -->
+<!-- ST-BLOG-POST-LIST:END -->
 
 ### Languages and Tools:
 

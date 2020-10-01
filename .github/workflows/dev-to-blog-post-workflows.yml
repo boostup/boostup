@@ -1,4 +1,4 @@
-name: Latest blog post workflow
+name: Latest DEV.to blog post workflow
 on:
   schedule: # Run workflow automatically
     - cron: "0 * * * *" # Runs every hour, on the hour
@@ -9,6 +9,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
+      - uses: boostup/blog-post-workflow@master
         with:
-          feed_list: "https://dev.to/feed/boostup,https://www.youtube.com/feeds/videos.xml?playlist_id=PLe4LZLlTJV8nBDJfh7WG3pNkuu5mUbUWp" #,https://stackoverflow.com/feeds/user/1613599,https://medium.com/feed/@hugo_c_45785"
+          comment_tag_name: DEV-TO-BLOG-POST-LIST
+          max_post_count: 5
+          feed_list: "https://dev.to/feed/boostup,https://stackoverflow.com/feeds/user/1613599"
