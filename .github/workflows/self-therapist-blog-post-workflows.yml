@@ -12,5 +12,5 @@ jobs:
       - uses: boostup/blog-post-workflow@master
         with:
           comment_tag_name: ST-BLOG-POST-LIST
-          max_post_count: 10
-          feed_list: "https://medium.com/feed/@hugo_c_45785"
+          max_post_count: 5
+          feed_list: "https://medium.com/feed/auto-th%C3%A9rapeute-self-therapist" #https://medium.com/feed/@hugo_c_45785

@@ -13,24 +13,12 @@
 ### 🌱 I'm a Lover, Developer, and [Self-Therapist][selftherapistwebsite]
 
 - 💻 I’m currently working on a [E-commerce][regaliawebsite] app for my portfolio !
-- 🤔 I’m learning about ThreeJS, GastbyJS, GraphQL 🤣
+- 🤔 I’m learning about ThreeJS, GastbyJS, GraphQL
 - 🔭 2021 Goals: Contribute to Open Source projects
-- ⚡ Fun fact: I love to play piano / guitar, meditate | I'm passionate about bringing 3D into conventional web apps when it is relevant
+- ⚡ Fun facts: I love to play piano / guitar | I meditate, practice Reiki, and fasting is part of my daily routine | I'm passionate about bringing 3D into conventional web mobile and desktop browsers, when it is relevant to the user experience
+- 💬 Ask me about anything [here](https://github.com/boostup/boostup/issues)
 
-### Latest Blog Posts
-
-<!-- DEV-TO-BLOG-POST-LIST:START -->
-<!-- DEV-TO-BLOG-POST-LIST:END -->
-
-### Dev Videos Recently Watched
-
-<!-- YT-PL-DEV-2020:START -->
-<!-- YT-PL-DEV-2020:END -->
-
-### Auto-Thérapeute
-
-<!-- ST-BLOG-POST-LIST:START -->
-<!-- ST-BLOG-POST-LIST:END -->
+---
 
 ### Languages and Tools:
 
@@ -49,6 +37,29 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+
+<br />
+
+---
+
+### 📒 Latest Blog Posts
+
+<!-- DEV-TO-BLOG-POST-LIST:START -->
+<!-- DEV-TO-BLOG-POST-LIST:END -->
+
+---
+
+### 🎞️ Dev Videos Recently Watched
+
+<!-- YT-PL-DEV-2020:START -->
+<!-- YT-PL-DEV-2020:END -->
+
+---
+
+### <img align="left" alt="Visual Studio Code" width="26px" src="https://miro.medium.com/fit/c/64/64/1*3Y0zj9MOlEwukCpiBB6zsw.png" /> Auto-Thérapeute
+
+<!-- ST-BLOG-POST-LIST:START -->
+<!-- ST-BLOG-POST-LIST:END -->
 
 [website]: https://boostup.github.io
 [regaliawebsite]: https://fervent-snyder-0eb669.netlify.app/#/
