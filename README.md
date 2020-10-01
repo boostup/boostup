@@ -45,6 +45,11 @@
 ### 📒 Latest Blog Posts
 
 <!-- DEV-TO-BLOG-POST-LIST:START -->
+- [Ubuntu/Linux cmd-line Cheat Sheet](https://dev.to/boostup/ubuntu-linux-cmd-line-cheat-sheet-4hec)
+- [Git/Github Cheat Sheet](https://dev.to/boostup/git-github-cheat-sheet-316p)
+- [Node.js I/O streams: piping output all the way back to web server](https://stackoverflow.com/questions/47809022/node-js-i-o-streams-piping-output-all-the-way-back-to-web-server)
+- [Converting HTMLElement to a React Element, and keeping any event listeners](https://stackoverflow.com/questions/47334172/converting-htmlelement-to-a-react-element-and-keeping-any-event-listeners)
+- [ionic tabs: How to reuse the same detail page accross different tabs](https://stackoverflow.com/questions/33824140/ionic-tabs-how-to-reuse-the-same-detail-page-accross-different-tabs)
 <!-- DEV-TO-BLOG-POST-LIST:END -->
 
 ---
