@@ -59,6 +59,10 @@
 ### <img align="left" alt="Visual Studio Code" width="26px" src="https://miro.medium.com/fit/c/64/64/1*3Y0zj9MOlEwukCpiBB6zsw.png" /> Auto-Thérapeute
 
 <!-- ST-BLOG-POST-LIST:START -->
+- [Qu’est-ce qu’une crise de guérison et le Reiki peut-il en être la cause ?](https://medium.com/auto-th%C3%A9rapeute-self-therapist/quest-ce-qu-une-crise-de-gu%C3%A9rison-et-le-reiki-peut-il-en-%C3%AAtre-la-cause-ece872f8e205?source=rss----3cfe79366cdd---4)
+- [Aux frontières de la médecine — 2è partie et conclusions](https://medium.com/auto-th%C3%A9rapeute-self-therapist/aux-fronti%C3%A8res-de-la-m%C3%A9decine-2%C3%A8-partie-et-conclusions-55419c352e8c?source=rss----3cfe79366cdd---4)
+- [Aux frontières de la médecine — 1ère partie](https://medium.com/auto-th%C3%A9rapeute-self-therapist/aux-fronti%C3%A8res-de-la-m%C3%A9decine-1%C3%A8re-partie-63708f336403?source=rss----3cfe79366cdd---4)
+- [Esprits et science](https://medium.com/auto-th%C3%A9rapeute-self-therapist/esprits-et-science-1ced6879e43b?source=rss----3cfe79366cdd---4)
 <!-- ST-BLOG-POST-LIST:END -->
 
 [website]: https://boostup.github.io
