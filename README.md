@@ -17,6 +17,11 @@
 - 🔭 2021 Goals: Contribute to Open Source projects
 - ⚡ Fun fact: I love to play piano / guitar, meditate | I'm passionate about bringing 3D into conventional web apps when it is relevant
 
+### Blog posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
