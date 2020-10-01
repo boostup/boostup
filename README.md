@@ -52,6 +52,11 @@
 ### 🎞️ Dev Videos Recently Watched
 
 <!-- YT-PL-DEV-2020:START -->
+- [Build a GIF Application using React Custom Hooks | Optimize Your React Apps](https://www.youtube.com/watch?v=O6FhJvcvVOE)
+- [I built a chat app in 7 minutes with React & Firebase](https://www.youtube.com/watch?v=zQyrwxMPm88)
+- [Glitch text effect with CSS only](https://www.youtube.com/watch?v=7Xyg8Ja7dyY)
+- [Building a Netflix Clone - React Tutorial - Styled Components - Firebase (Firestore & Auth)](https://www.youtube.com/watch?v=x_EEwGe-a9o)
+- [10 JavaScript Projects in 1 Hour - Coding Challenge 🔥](https://www.youtube.com/watch?v=8GPPJpiLqHk)
 <!-- YT-PL-DEV-2020:END -->
 
 ---
