@@ -1,5 +1,6 @@
 ### ✨ Hi there, I'm Fred - aka [boostup][website] ✨
 
+[<img align="left" alt="boostup's Discord" width="24px" src="https://discord.com/assets/07dca80a102d4149e9736d4b162cff6f.ico" />][discordcontactme]
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
@@ -10,17 +11,24 @@
 
 <br />
 
-### 🌱 I'm a Lover, Developer, and [Self-Therapist][selftherapistwebsite]
+### 🌱 About me
 
-- 💻 I’m currently working on a [E-commerce][regaliawebsite] app for my portfolio !
-- 🤔 I’m learning about ThreeJS, GastbyJS, GraphQL
-- 🔭 2021 Goals: Contribute to Open Source projects
-- ⚡ Fun facts: I love to play piano / guitar | I meditate, practice Reiki, and fasting is part of my daily routine | I'm passionate about bringing 3D into conventional web mobile and desktop browsers, when it is relevant to the user experience
-- 💬 Ask me about anything [here](https://github.com/boostup/boostup/issues)
+- I'm a Lover, Developer, and [Self-Therapist][selftherapistwebsite]
+- 💻 I’m currently working on this [E-commerce app][regaliawebsite]
+  ➡️ [Project PR history][featuredpullrequesthistory]
+  ➡️ [Project Kanban board][featuredkanbanproject]
+- 🤔 I’m learning about **ThreeJS, GastbyJS, GraphQL**
+- 🔭 **2021 Goals**: Contribute to Open Source projects
+- ⚡ **Fun facts**: I love to play piano / guitar | I meditate, practice Reiki, and fasting is part of my daily routine | I'm passionate about bringing **meaningful** micro-animations & 3D contents into conventional web mobile and desktop browsers, **when it is relevant to the user experience**
+- 💬 Ask me about [Font-End / Back-end / Serverless JS Dev][discordcontactme] or even [Self-DEV][selftherapistwebsite]
 
 ---
 
-### Languages and Tools:
+  <img alt="boostup's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=boostup&show_icons=true&hide_border=true" />
+
+---
+
+### Languages and Tools
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -37,8 +45,15 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="Python 3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 
 <br />
+
+---
+
+### Communication
+
+I'm fluent in 🇫🇷 French, 🇪🇸 Spanish, and 🇬🇧 English
 
 ---
 
@@ -61,10 +76,14 @@
 <!-- ST-BLOG-POST-LIST:START -->
 <!-- ST-BLOG-POST-LIST:END -->
 
+[featuredkanbanproject]: https://github.com/boostup/regalia-clothing/projects/1
+[featuredpullrequesthistory]: https://github.com/boostup/regalia-clothing/pulls?q=is%3Apr
+[githubcontactme]: https://github.com/boostup/boostup/issues
+[discordcontactme]: https://discord.gg/fnEQjA3
 [website]: https://boostup.github.io
 [regaliawebsite]: https://fervent-snyder-0eb669.netlify.app/#/
 [codepenprofile]: https://codepen.io/b00stup
 [selftherapistwebsite]: https://medium.com/auto-th%C3%A9rapeute-self-therapist
-[twitter]: https://twitter.com/HugoC45785
+[twitter]: https://twitter.com/b00stup
 [youtube]: https://www.youtube.com/channel/UCK52WvY8Li7E9wkG4NCW-Zw/playlists
 [linkedin]: https://www.linkedin.com/in/frederic-beauvois-4161361b6/
