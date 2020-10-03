@@ -19,7 +19,7 @@
   ➡️ [Project Kanban board][featuredkanbanproject]
 - 🤔 I’m learning about **ThreeJS, GastbyJS, GraphQL**
 - 🔭 **2021 Goals**: Contribute to Open Source projects
-- ⚡ **Fun facts**: I love to play piano / guitar | I meditate, practice Reiki, and fasting is part of my daily routine | I'm passionate about bringing **meaningful** micro-animations & 3D contents into conventional web mobile and desktop browsers, **when it is relevant to the user experience**
+- ⚡ **Fun facts**: I love to play piano / guitar | I meditate, practice Reiki & calisthenics, and intermittent fasting is part of my daily routine | I'm passionate about bringing *meaningful* micro-animations & 3D contents into mobile and desktop browser apps, *when it is relevant to the user experience*
 - 💬 Ask me about [Font-End / Back-end / Serverless JS Dev][discordcontactme] or even [Self-DEV][selftherapistwebsite]
 
 ---
