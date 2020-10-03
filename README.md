@@ -72,10 +72,10 @@ I'm fluent in 🇫🇷 French, 🇪🇸 Spanish, and 🇬🇧 English
 ### 🎞️ Dev Videos Recently Watched
 
 <!-- YT-PL-DEV-2020:START -->
+- [Developers vs. App Store: Apple's Fights, Explained | WSJ](https://www.youtube.com/watch?v=JZXWf65yhGM)
 - [Build a GIF Application using React Custom Hooks | Optimize Your React Apps](https://www.youtube.com/watch?v=O6FhJvcvVOE)
 - [Building a Netflix Clone - React Tutorial - Styled Components - Firebase (Firestore & Auth)](https://www.youtube.com/watch?v=x_EEwGe-a9o)
 - [10 JavaScript Projects in 1 Hour - Coding Challenge 🔥](https://www.youtube.com/watch?v=8GPPJpiLqHk)
-- [Web Design Inspiration: 5 BEST WEBSITES JULY 2020](https://www.youtube.com/watch?v=Xbx4HJW-th0)
 - [2.5 Gravitational Attraction - The Nature of Code](https://www.youtube.com/watch?v=EpgB3cNhKPM)
 <!-- YT-PL-DEV-2020:END -->
 
