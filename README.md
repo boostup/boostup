@@ -60,7 +60,6 @@ I'm fluent in 🇫🇷 French, 🇪🇸 Spanish, and 🇬🇧 English
 ### 📒 Latest Blog Posts
 
 <!-- DEV-TO-BLOG-POST-LIST:START -->
-
 - [Ubuntu/Linux cmd-line Cheat Sheet](https://dev.to/boostup/ubuntu-linux-cmd-line-cheat-sheet-4hec)
 - [Git/Github Cheat Sheet](https://dev.to/boostup/git-github-cheat-sheet-316p)
 <!-- DEV-TO-BLOG-POST-LIST:END -->
