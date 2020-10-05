@@ -69,10 +69,11 @@ I'm fluent in 🇫🇷 French, 🇪🇸 Spanish, and 🇬🇧 English
 ### 📒 Latest Stack Overflow questions
 
 <!-- SO-Q-LIST:START -->
-
 - [Node.js I/O streams: piping output all the way back to web server](https://stackoverflow.com/questions/47809022/node-js-i-o-streams-piping-output-all-the-way-back-to-web-server)
 - [Converting HTMLElement to a React Element, and keeping any event listeners](https://stackoverflow.com/questions/47334172/converting-htmlelement-to-a-react-element-and-keeping-any-event-listeners)
 - [ionic tabs: How to reuse the same detail page accross different tabs](https://stackoverflow.com/questions/33824140/ionic-tabs-how-to-reuse-the-same-detail-page-accross-different-tabs)
+- [ion-tabs: content not fitting when changing platform](https://stackoverflow.com/questions/33784450/ion-tabs-content-not-fitting-when-changing-platform)
+- [chrome devtools 2015 different then 2013 videos](https://stackoverflow.com/questions/29921753/chrome-devtools-2015-different-then-2013-videos)
 <!-- SO-Q-LIST:END -->
 
 ---
