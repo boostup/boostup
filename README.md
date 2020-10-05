@@ -13,13 +13,13 @@
 
 ### 🌱 About me
 
-- I'm a Lover, Developer, and [Self-Therapist][selftherapistwebsite]
+- I'm a Husband, Developer, and [Self-Therapist][selftherapistwebsite]
 - 💻 I’m currently working on this [E-commerce app][regaliawebsite]
   ➡️ [Project PR history][featuredpullrequesthistory]
   ➡️ [Project Kanban board][featuredkanbanproject]
-- 🤔 I’m learning about **ThreeJS, GastbyJS, GraphQL**
+- 🤔 I’m learning [ThreeJS][threejs], [GastbyJS][gatsbyjs], & [GraphQL][graphql]
 - 🔭 **2021 Goals**: Contribute to Open Source projects
-- ⚡ **Fun facts**: I love to play piano / guitar | I meditate, practice Reiki & calisthenics, and intermittent fasting is part of my daily routine | I'm passionate about bringing *meaningful* micro-animations & 3D contents into mobile and desktop browser apps, *when it is relevant to the user experience*
+- ⚡ **Fun facts**: I salute the sun every other morning for 15 minutes | I practice and write about [self-hypnosis][selftherapisthypnosis], [intermittent fasting][selftherapistfasting] and [so much more][selftherapistwebsite] | I'm a Reiki level 1 practitioner | I stay in shape through calisthenics | I'm currently learning piano improv | I'm passionate about bringing _meaningful_ micro-animations & 3D contents into mobile and desktop browser apps, _when it is relevant to the user experience_
 - 💬 Ask me about [Font-End / Back-end / Serverless JS Dev][discordcontactme] or even [Self-DEV][selftherapistwebsite]
 
 ---
@@ -60,18 +60,28 @@ I'm fluent in 🇫🇷 French, 🇪🇸 Spanish, and 🇬🇧 English
 ### 📒 Latest Blog Posts
 
 <!-- DEV-TO-BLOG-POST-LIST:START -->
+
 - [Ubuntu/Linux cmd-line Cheat Sheet](https://dev.to/boostup/ubuntu-linux-cmd-line-cheat-sheet-4hec)
 - [Git/Github Cheat Sheet](https://dev.to/boostup/git-github-cheat-sheet-316p)
+<!-- DEV-TO-BLOG-POST-LIST:END -->
+
+---
+
+### 📒 Latest Stack Overflow questions
+
+<!-- SO-Q-LIST:START -->
+
 - [Node.js I/O streams: piping output all the way back to web server](https://stackoverflow.com/questions/47809022/node-js-i-o-streams-piping-output-all-the-way-back-to-web-server)
 - [Converting HTMLElement to a React Element, and keeping any event listeners](https://stackoverflow.com/questions/47334172/converting-htmlelement-to-a-react-element-and-keeping-any-event-listeners)
 - [ionic tabs: How to reuse the same detail page accross different tabs](https://stackoverflow.com/questions/33824140/ionic-tabs-how-to-reuse-the-same-detail-page-accross-different-tabs)
-<!-- DEV-TO-BLOG-POST-LIST:END -->
+<!-- SO-Q-LIST:END -->
 
 ---
 
 ### 🎞️ Dev Videos Recently Watched
 
 <!-- YT-PL-DEV-2020:START -->
+
 - [Developers vs. App Store: Apple's Fights, Explained | WSJ](https://www.youtube.com/watch?v=JZXWf65yhGM)
 - [Build a GIF Application using React Custom Hooks | Optimize Your React Apps](https://www.youtube.com/watch?v=O6FhJvcvVOE)
 - [Building a Netflix Clone - React Tutorial - Styled Components - Firebase (Firestore & Auth)](https://www.youtube.com/watch?v=x_EEwGe-a9o)
@@ -81,15 +91,6 @@ I'm fluent in 🇫🇷 French, 🇪🇸 Spanish, and 🇬🇧 English
 
 ---
 
-### <img align="left" alt="Visual Studio Code" width="26px" src="https://miro.medium.com/fit/c/64/64/1*3Y0zj9MOlEwukCpiBB6zsw.png" /> Auto-Thérapeute
-
-<!-- ST-BLOG-POST-LIST:START -->
-- [Qu’est-ce qu’une crise de guérison et le Reiki peut-il en être la cause ?](https://medium.com/auto-th%C3%A9rapeute-self-therapist/quest-ce-qu-une-crise-de-gu%C3%A9rison-et-le-reiki-peut-il-en-%C3%AAtre-la-cause-ece872f8e205?source=rss----3cfe79366cdd---4)
-- [Aux frontières de la médecine — 2è partie et conclusions](https://medium.com/auto-th%C3%A9rapeute-self-therapist/aux-fronti%C3%A8res-de-la-m%C3%A9decine-2%C3%A8-partie-et-conclusions-55419c352e8c?source=rss----3cfe79366cdd---4)
-- [Aux frontières de la médecine — 1ère partie](https://medium.com/auto-th%C3%A9rapeute-self-therapist/aux-fronti%C3%A8res-de-la-m%C3%A9decine-1%C3%A8re-partie-63708f336403?source=rss----3cfe79366cdd---4)
-- [Esprits et science](https://medium.com/auto-th%C3%A9rapeute-self-therapist/esprits-et-science-1ced6879e43b?source=rss----3cfe79366cdd---4)
-<!-- ST-BLOG-POST-LIST:END -->
-
 [featuredkanbanproject]: https://github.com/boostup/regalia-clothing/projects/1
 [featuredpullrequesthistory]: https://github.com/boostup/regalia-clothing/pulls?q=is%3Apr
 [githubcontactme]: https://github.com/boostup/boostup/issues
@@ -98,6 +99,13 @@ I'm fluent in 🇫🇷 French, 🇪🇸 Spanish, and 🇬🇧 English
 [regaliawebsite]: https://fervent-snyder-0eb669.netlify.app/#/
 [codepenprofile]: https://codepen.io/b00stup
 [selftherapistwebsite]: https://medium.com/auto-th%C3%A9rapeute-self-therapist
+[selftherapisthypnosis]: https://medium.com/auto-th%C3%A9rapeute-self-therapist/hypnose/home
+[selftherapistfasting]: https://medium.com/auto-th%C3%A9rapeute-self-therapist/nutrition/home
 [twitter]: https://twitter.com/b00stup
 [youtube]: https://www.youtube.com/channel/UCK52WvY8Li7E9wkG4NCW-Zw/playlists
 [linkedin]: https://www.linkedin.com/in/frederic-beauvois-4161361b6/
+[threejs]: https://threejs.org/
+[gatsbyjs]: https://www.gatsbyjs.com/
+[graphql]: https://graphql.org/
+
+<!-- ### <img align="left" alt="Auto-Thérapeute" width="26px" src="https://miro.medium.com/fit/c/64/64/1*3Y0zj9MOlEwukCpiBB6zsw.png" /> Auto-Thérapeute -->

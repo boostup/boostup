@@ -1,16 +1,16 @@
-name: Self-Therapist Latest blog post workflow
+name: Latest Stack Overflow questions workflow
 on:
   schedule: # Run workflow automatically
     - cron: "0 * * * *" # Runs every hour, on the hour
   workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the Github Actions Workflow page directly
 jobs:
   update-readme-with-blog:
-    name: Update this repo's README with latest Self-Therapist blog posts
+    name: Update this repo's README with my latest Stack Overflow questions
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
       - uses: boostup/blog-post-workflow@master
         with:
-          comment_tag_name: ST-BLOG-POST-LIST
+          comment_tag_name: SO-Q-LIST
           max_post_count: 5
-          feed_list: "https://medium.com/feed/auto-th%C3%A9rapeute-self-therapist" #https://medium.com/feed/@hugo_c_45785
+          feed_list: "https://stackoverflow.com/feeds/user/1613599"
