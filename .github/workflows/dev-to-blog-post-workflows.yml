@@ -1,4 +1,4 @@
-name: Latest DEV.to blog post workflow
+name: Latest DEV.to blog posts workflow
 on:
   schedule: # Run workflow automatically
     - cron: "0 * * * *" # Runs every hour, on the hour
@@ -13,4 +13,4 @@ jobs:
         with:
           comment_tag_name: DEV-TO-BLOG-POST-LIST
           max_post_count: 5
-          feed_list: "https://dev.to/feed/boostup,https://stackoverflow.com/feeds/user/1613599"
+          feed_list: "https://dev.to/feed/boostup"
