@@ -85,7 +85,7 @@ I'm fluent in 🇫🇷 French, 🇪🇸 Spanish, and 🇬🇧 English
 - [Database Indexing Explained (with PostgreSQL)](https://www.youtube.com/watch?v=-qNSXK7s7_w)
 - [Build a GIF Application using React Custom Hooks | Optimize Your React Apps](https://www.youtube.com/watch?v=O6FhJvcvVOE)
 - [Building a Netflix Clone - React Tutorial - Styled Components - Firebase (Firestore & Auth)](https://www.youtube.com/watch?v=x_EEwGe-a9o)
-- [The State of State Management in React](https://www.youtube.com/watch?v=BhQYZmaxTCM)
+- [I Made Minecraft but with Realistic Physics](https://www.youtube.com/watch?v=2gle_F522ng)
 <!-- YT-PL-DEV-2020:END -->
 
 ---
