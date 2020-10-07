@@ -82,9 +82,9 @@ I'm fluent in 🇫🇷 French, 🇪🇸 Spanish, and 🇬🇧 English
 ### 🎞️ Dev Videos Recently Watched
 
 <!-- YT-PL-DEV-2020:START -->
+- [Junior Vs Senior Code - How To Write Better Code As A Web Developer - React](https://www.youtube.com/watch?v=0yzoAbrjV6k)
 - [Developers vs. App Store: Apple's Fights, Explained | WSJ](https://www.youtube.com/watch?v=JZXWf65yhGM)
 - [Database Indexing Explained (with PostgreSQL)](https://www.youtube.com/watch?v=-qNSXK7s7_w)
-- [Build a GIF Application using React Custom Hooks | Optimize Your React Apps](https://www.youtube.com/watch?v=O6FhJvcvVOE)
 - [Building a Netflix Clone - React Tutorial - Styled Components - Firebase (Firestore & Auth)](https://www.youtube.com/watch?v=x_EEwGe-a9o)
 - [I Made Minecraft but with Realistic Physics](https://www.youtube.com/watch?v=2gle_F522ng)
 <!-- YT-PL-DEV-2020:END -->
