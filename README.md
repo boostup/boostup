@@ -14,6 +14,7 @@
 ### 🌱 About me
 
 - I'm a Husband, Developer, and [Self-Therapist][selftherapistwebsite]
+- I'm fluent in 🇫🇷 French, 🇪🇸 Spanish, and 🇬🇧 English
 - 💻 I’m currently working on this [E-commerce app][regaliawebsite]
   ➡️ [Project PR history][featuredpullrequesthistory]
   ➡️ [Project Kanban board][featuredkanbanproject]
@@ -25,6 +26,31 @@
 ---
 
   <img alt="boostup's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=boostup&show_icons=true&hide_border=true" />
+
+---
+
+### 📒 Latest Blog Posts
+
+<!-- DEV-TO-BLOG-POST-LIST:START -->
+
+- [The tribulations of React performance optimizations](https://dev.to/boostup/the-tribulations-of-react-performance-optimizations-1i2k)
+- [The useEffect hook tribulations + Cheat Sheet](https://dev.to/boostup/the-useeffect-hook-tribulations-1gbe)
+- [Ubuntu/Linux cmd-line Cheat Sheet](https://dev.to/boostup/ubuntu-linux-cmd-line-cheat-sheet-4hec)
+- [Git/Github Cheat Sheet](https://dev.to/boostup/git-github-cheat-sheet-316p)
+<!-- DEV-TO-BLOG-POST-LIST:END -->
+
+---
+
+### 🎞️ Dev Videos Recently Watched
+
+<!-- YT-PL-DEV-2020:START -->
+
+- [Junior Vs Senior Code - How To Write Better Code As A Web Developer - React](https://www.youtube.com/watch?v=0yzoAbrjV6k)
+- [Developers vs. App Store: Apple's Fights, Explained | WSJ](https://www.youtube.com/watch?v=JZXWf65yhGM)
+- [Database Indexing Explained (with PostgreSQL)](https://www.youtube.com/watch?v=-qNSXK7s7_w)
+- [Building a Netflix Clone - React Tutorial - Styled Components - Firebase (Firestore & Auth)](https://www.youtube.com/watch?v=x_EEwGe-a9o)
+- [I Made Minecraft but with Realistic Physics](https://www.youtube.com/watch?v=2gle_F522ng)
+<!-- YT-PL-DEV-2020:END -->
 
 ---
 
@@ -46,53 +72,6 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Python 3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-
-<br />
-<br />
-<br />
-
----
-
-### Communication
-
-I'm fluent in 🇫🇷 French, 🇪🇸 Spanish, and 🇬🇧 English
-
----
-
-### 📒 Latest Blog Posts
-
-<!-- DEV-TO-BLOG-POST-LIST:START -->
-- [The tribulations of React performance optimizations](https://dev.to/boostup/the-tribulations-of-react-performance-optimizations-1i2k)
-- [The useEffect hook tribulations + Cheat Sheet](https://dev.to/boostup/the-useeffect-hook-tribulations-1gbe)
-- [Ubuntu/Linux cmd-line Cheat Sheet](https://dev.to/boostup/ubuntu-linux-cmd-line-cheat-sheet-4hec)
-- [Git/Github Cheat Sheet](https://dev.to/boostup/git-github-cheat-sheet-316p)
-<!-- DEV-TO-BLOG-POST-LIST:END -->
-
----
-
-### 🎞️ Dev Videos Recently Watched
-
-<!-- YT-PL-DEV-2020:START -->
-- [Junior Vs Senior Code - How To Write Better Code As A Web Developer - React](https://www.youtube.com/watch?v=0yzoAbrjV6k)
-- [Developers vs. App Store: Apple's Fights, Explained | WSJ](https://www.youtube.com/watch?v=JZXWf65yhGM)
-- [Database Indexing Explained (with PostgreSQL)](https://www.youtube.com/watch?v=-qNSXK7s7_w)
-- [Building a Netflix Clone - React Tutorial - Styled Components - Firebase (Firestore & Auth)](https://www.youtube.com/watch?v=x_EEwGe-a9o)
-- [I Made Minecraft but with Realistic Physics](https://www.youtube.com/watch?v=2gle_F522ng)
-<!-- YT-PL-DEV-2020:END -->
-
----
-
-### 📒 Latest Stack Overflow questions
-
-<!-- SO-Q-LIST:START -->
-- [Node.js I/O streams: piping output all the way back to web server](https://stackoverflow.com/questions/47809022/node-js-i-o-streams-piping-output-all-the-way-back-to-web-server)
-- [Converting HTMLElement to a React Element, and keeping any event listeners](https://stackoverflow.com/questions/47334172/converting-htmlelement-to-a-react-element-and-keeping-any-event-listeners)
-- [ionic tabs: How to reuse the same detail page accross different tabs](https://stackoverflow.com/questions/33824140/ionic-tabs-how-to-reuse-the-same-detail-page-accross-different-tabs)
-- [ion-tabs: content not fitting when changing platform](https://stackoverflow.com/questions/33784450/ion-tabs-content-not-fitting-when-changing-platform)
-- [chrome devtools 2015 different then 2013 videos](https://stackoverflow.com/questions/29921753/chrome-devtools-2015-different-then-2013-videos)
-<!-- SO-Q-LIST:END -->
-
-
 
 [featuredkanbanproject]: https://github.com/boostup/regalia-clothing/projects/1
 [featuredpullrequesthistory]: https://github.com/boostup/regalia-clothing/pulls?q=is%3Apr
