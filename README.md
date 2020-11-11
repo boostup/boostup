@@ -18,7 +18,7 @@
 - 💻 I’m currently working on this [E-commerce app][regaliawebsite]
   ➡️ [Project PR history][featuredpullrequesthistory]
   ➡️ [Project Kanban board][featuredkanbanproject]
-- 🤔 I’m learning [ThreeJS][threejs], [GastbyJS][gatsbyjs], & [GraphQL][graphql]
+- 🤔 I’m learning [ThreeJS][threejs], [NextJS][nextjs], [GastbyJS][gatsbyjs], & [GraphQL][graphql]
 - 🔭 **2021 Goals**: Contribute to Open Source projects
 - ⚡ **Fun facts**: I salute the sun every other morning for 15 minutes | I practice and write about [self-hypnosis][selftherapisthypnosis], [intermittent fasting][selftherapistfasting] and [so much more][selftherapistwebsite] | I'm a Reiki level 1 practitioner | I stay in shape through calisthenics | I'm currently learning piano improv | I'm passionate about bringing _meaningful_ micro-animations & 3D contents into mobile and desktop browser apps, _when it is relevant to the user experience_
 - 💬 Ask me about [Font-End / Back-end / Serverless JS Dev][discordcontactme] or even [Self-DEV][selftherapistwebsite]
@@ -89,5 +89,6 @@
 [threejs]: https://threejs.org/
 [gatsbyjs]: https://www.gatsbyjs.com/
 [graphql]: https://graphql.org/
+[nextjs]: https://nextjs.org/learn/basics/create-nextjs-app
 
 <!-- ### <img align="left" alt="Auto-Thérapeute" width="26px" src="https://miro.medium.com/fit/c/64/64/1*3Y0zj9MOlEwukCpiBB6zsw.png" /> Auto-Thérapeute -->
