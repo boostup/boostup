@@ -15,11 +15,14 @@
 
 💻 I’m currently working on :
 
-- [A fully functional Spotify Clone and Remote Control]
+- A fully functional [Spotify Clone and Remote Control](https://jovial-mccarthy-6875cf.netlify.app/)
+
   ➡️ [Project PR history](https://github.com/boostup/react-spotify-clone-app/pulls?q=is%3Apr+)
 
 - [E-commerce app Regalia Clothing][regaliawebsite]
+
   ➡️ [Project PR history][featuredpullrequesthistory]
+
   ➡️ [Project Kanban board][featuredkanbanproject]
 
 ### 🌱 About me
