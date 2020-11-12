@@ -11,14 +11,22 @@
 
 <br />
 
+### Projects
+
+💻 I’m currently working on :
+
+- [A fully functional Spotify Clone and Remote Control]
+  ➡️ [Project PR history](https://github.com/boostup/react-spotify-clone-app/pulls?q=is%3Apr+)
+
+- [E-commerce app Regalia Clothing][regaliawebsite]
+  ➡️ [Project PR history][featuredpullrequesthistory]
+  ➡️ [Project Kanban board][featuredkanbanproject]
+
 ### 🌱 About me
 
 - I'm a Husband, Developer, and [Self-Therapist][selftherapistwebsite]
 - I'm fluent in 🇫🇷 French, 🇪🇸 Spanish, and 🇬🇧 English
-- 💻 I’m currently working on this [E-commerce app][regaliawebsite]
-  ➡️ [Project PR history][featuredpullrequesthistory]
-  ➡️ [Project Kanban board][featuredkanbanproject]
-- 🤔 I’m learning [ThreeJS][threejs], [NextJS][nextjs], [GastbyJS][gatsbyjs], & [GraphQL][graphql]
+- 🤔 I’m currently learning [ThreeJS][threejs], [NextJS][nextjs], [GastbyJS][gatsbyjs], & [GraphQL][graphql]
 - 🔭 **2021 Goals**: Contribute to Open Source projects
 - ⚡ **Fun facts**: I salute the sun every other morning for 15 minutes | I practice and write about [self-hypnosis][selftherapisthypnosis], [intermittent fasting][selftherapistfasting] and [so much more][selftherapistwebsite] | I'm a Reiki level 1 practitioner | I stay in shape through calisthenics | I'm currently learning piano improv | I'm passionate about bringing _meaningful_ micro-animations & 3D contents into mobile and desktop browser apps, _when it is relevant to the user experience_
 - 💬 Ask me about [Font-End / Back-end / Serverless JS Dev][discordcontactme] or even [Self-DEV][selftherapistwebsite]
@@ -33,6 +41,7 @@
 
 <!-- DEV-TO-BLOG-POST-LIST:START -->
 
+- [The Flux architectural pattern using useReducer, the Context API, and Sagas](https://dev.to/boostup/the-flux-architectural-pattern-using-usereducer-the-context-api-and-sagas-8ie)
 - [The tribulations of React performance optimizations](https://dev.to/boostup/the-tribulations-of-react-performance-optimizations-1i2k)
 - [The useEffect hook tribulations + Cheat Sheet](https://dev.to/boostup/the-useeffect-hook-tribulations-1gbe)
 - [Ubuntu/Linux cmd-line Cheat Sheet](https://dev.to/boostup/ubuntu-linux-cmd-line-cheat-sheet-4hec)
