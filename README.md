@@ -54,7 +54,6 @@
 ### 🎞️ Dev Videos Recently Watched
 
 <!-- YT-PL-DEV-2020:START -->
-
 - [Why Most Self-Taught Programmers FAIL](https://www.youtube.com/watch?v=GOdyt07HTyY)
 - [Intro To JavaScript Unit Testing & BDD (2 Hour+ Course)](https://www.youtube.com/watch?v=u5cLK1UrFyQ)
 - [Awesome 3D ANIMATION Javascript Tutorial!](https://www.youtube.com/watch?v=XK7T3mY1V-w)
