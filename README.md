@@ -42,10 +42,10 @@
 <!-- DEV-TO-BLOG-POST-LIST:START -->
 
 - [The Flux architectural pattern using useReducer, the Context API, and Sagas](https://dev.to/boostup/the-flux-architectural-pattern-using-usereducer-the-context-api-and-sagas-8ie)
+- [CSS Cheat Sheet](https://dev.to/boostup/css-cheat-sheet-1d2j)
 - [The tribulations of React performance optimizations](https://dev.to/boostup/the-tribulations-of-react-performance-optimizations-1i2k)
 - [The useEffect hook tribulations + Cheat Sheet](https://dev.to/boostup/the-useeffect-hook-tribulations-1gbe)
 - [Ubuntu/Linux cmd-line Cheat Sheet](https://dev.to/boostup/ubuntu-linux-cmd-line-cheat-sheet-4hec)
-- [Git/Github Cheat Sheet](https://dev.to/boostup/git-github-cheat-sheet-316p)
 <!-- DEV-TO-BLOG-POST-LIST:END -->
 
 ---
@@ -54,11 +54,11 @@
 
 <!-- YT-PL-DEV-2020:START -->
 
-- [Junior Vs Senior Code - How To Write Better Code As A Web Developer - React](https://www.youtube.com/watch?v=0yzoAbrjV6k)
-- [Developers vs. App Store: Apple's Fights, Explained | WSJ](https://www.youtube.com/watch?v=JZXWf65yhGM)
-- [Database Indexing Explained (with PostgreSQL)](https://www.youtube.com/watch?v=-qNSXK7s7_w)
-- [Building a Netflix Clone - React Tutorial - Styled Components - Firebase (Firestore & Auth)](https://www.youtube.com/watch?v=x_EEwGe-a9o)
-- [I Made Minecraft but with Realistic Physics](https://www.youtube.com/watch?v=2gle_F522ng)
+- [Why Most Self-Taught Programmers FAIL](https://www.youtube.com/watch?v=GOdyt07HTyY)
+- [Intro To JavaScript Unit Testing & BDD (2 Hour+ Course)](https://www.youtube.com/watch?v=u5cLK1UrFyQ)
+- [Awesome 3D ANIMATION Javascript Tutorial!](https://www.youtube.com/watch?v=XK7T3mY1V-w)
+- [The Best Way to Host & Deploy a React Application](https://www.youtube.com/watch?v=Ey_90l9GaAw)
+- [The COOLEST Linux Terminal App I've Ever Seen!](https://www.youtube.com/watch?v=gbzqCAjm--g)
 <!-- YT-PL-DEV-2020:END -->
 
 ---
