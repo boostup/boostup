@@ -15,11 +15,9 @@
 
 💻 I’m currently working on :
 
-- A fully functional [Spotify Clone and Remote Control](https://jovial-mccarthy-6875cf.netlify.app/)
+- A fully functional Spotify Clone and Remote Control [SpotifLy](https://jovial-mccarthy-6875cf.netlify.app/) that fully integrates with the `Spotify Web API` and `Playback SDK` ➡️ [Project PR history](https://github.com/boostup/react-spotify-clone-app/pulls?q=is%3Apr+)
 
-  ➡️ [Project PR history](https://github.com/boostup/react-spotify-clone-app/pulls?q=is%3Apr+)
-
-- [E-commerce app Regalia Clothing][regaliawebsite]
+- An E-commerce app [Regalia Clothing][regaliawebsite] that integrates the Stripe API for online payments :
 
   ➡️ [Project PR history][featuredpullrequesthistory]
 
@@ -43,6 +41,7 @@
 ### 📒 Latest Blog Posts
 
 <!-- DEV-TO-BLOG-POST-LIST:START -->
+
 - [The Flux architectural pattern using useReducer, the Context API, and Sagas](https://dev.to/boostup/the-flux-architectural-pattern-using-usereducer-the-context-api-and-sagas-8ie)
 - [CSS Cheat Sheet](https://dev.to/boostup/css-cheat-sheet-1d2j)
 - [The tribulations of React performance optimizations](https://dev.to/boostup/the-tribulations-of-react-performance-optimizations-1i2k)
