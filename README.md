@@ -40,7 +40,6 @@
 ### 📒 Latest Blog Posts
 
 <!-- DEV-TO-BLOG-POST-LIST:START -->
-
 - [The Flux architectural pattern using useReducer, the Context API, and Sagas](https://dev.to/boostup/the-flux-architectural-pattern-using-usereducer-the-context-api-and-sagas-8ie)
 - [CSS Cheat Sheet](https://dev.to/boostup/css-cheat-sheet-1d2j)
 - [The tribulations of React performance optimizations](https://dev.to/boostup/the-tribulations-of-react-performance-optimizations-1i2k)
