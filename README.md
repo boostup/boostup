@@ -55,9 +55,9 @@
 <!-- YT-PL-DEV-2020:START -->
 - [Heroku Express App Vs Netlify Serverless App - Free Node.js Hosting](https://www.youtube.com/watch?v=hpvCd5WKGLU)
 - [Why Most Self-Taught Programmers FAIL](https://www.youtube.com/watch?v=GOdyt07HTyY)
-- [Intro To JavaScript Unit Testing & BDD (2 Hour+ Course)](https://www.youtube.com/watch?v=u5cLK1UrFyQ)
 - [Awesome 3D ANIMATION Javascript Tutorial!](https://www.youtube.com/watch?v=XK7T3mY1V-w)
 - [The COOLEST Linux Terminal App I've Ever Seen!](https://www.youtube.com/watch?v=gbzqCAjm--g)
+- [Let's Build a Full-Stack AMAZON Clone with REACT JS for Beginners (Full E-Comm Store in 8 Hrs) 2021](https://www.youtube.com/watch?v=RDV3Z1KCBvo)
 <!-- YT-PL-DEV-2020:END -->
 
 ---
