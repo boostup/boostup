@@ -53,9 +53,9 @@
 ### 🎞️ Dev Videos Recently Watched
 
 <!-- YT-PL-DEV-2020:START -->
+- [Glassmorphism - A New UI Trend for 2021?!](https://www.youtube.com/watch?v=HfKBKQOyWHM)
 - [ECommerce Web Shop - Build & Deploy an Amazing App | React.js, Commerce.js, Stripe](https://www.youtube.com/watch?v=377AQ0y6LPA)
 - [Heroku Express App Vs Netlify Serverless App - Free Node.js Hosting](https://www.youtube.com/watch?v=hpvCd5WKGLU)
-- [Why Most Self-Taught Programmers FAIL](https://www.youtube.com/watch?v=GOdyt07HTyY)
 - [Awesome 3D ANIMATION Javascript Tutorial!](https://www.youtube.com/watch?v=XK7T3mY1V-w)
 - [The COOLEST Linux Terminal App I've Ever Seen!](https://www.youtube.com/watch?v=gbzqCAjm--g)
 <!-- YT-PL-DEV-2020:END -->
