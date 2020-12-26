@@ -53,11 +53,11 @@
 ### 🎞️ Dev Videos Recently Watched
 
 <!-- YT-PL-DEV-2020:START -->
+- [3D model configurator with React Three Fiber and gltfjsx](https://www.youtube.com/watch?v=xy_tbV4pC54)
 - [PWA patterns for window and service worker communication](https://www.youtube.com/watch?v=cmRqQJBIp_A)
 - [Glassmorphism - A New UI Trend for 2021?!](https://www.youtube.com/watch?v=HfKBKQOyWHM)
 - [ECommerce Web Shop - Build & Deploy an Amazing App | React.js, Commerce.js, Stripe](https://www.youtube.com/watch?v=377AQ0y6LPA)
 - [Heroku Express App Vs Netlify Serverless App - Free Node.js Hosting](https://www.youtube.com/watch?v=hpvCd5WKGLU)
-- [The COOLEST Linux Terminal App I've Ever Seen!](https://www.youtube.com/watch?v=gbzqCAjm--g)
 <!-- YT-PL-DEV-2020:END -->
 
 ---
