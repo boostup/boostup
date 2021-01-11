@@ -53,11 +53,11 @@
 ### 🎞️ Dev Videos Recently Watched
 
 <!-- YT-PL-DEV-2020:START -->
+- [Hyperbolic Helicoid with three.js #1](https://www.youtube.com/watch?v=tf1Ki3UXjrE)
 - [13 API géniales pour vos futurs projets !](https://www.youtube.com/watch?v=-6_kwaAZ-hY)
 - [React & Three.js | Building Interactive Minecraft Chest Model with React Three Fiber | Episode 1](https://www.youtube.com/watch?v=ClUZKhYLeqc)
+- [Vim Can Save You Hours Of Work](https://www.youtube.com/watch?v=bshMXXX40_4)
 - [3D model configurator with React Three Fiber and gltfjsx](https://www.youtube.com/watch?v=xy_tbV4pC54)
-- [PWA patterns for window and service worker communication](https://www.youtube.com/watch?v=cmRqQJBIp_A)
-- [Glassmorphism - A New UI Trend for 2021?!](https://www.youtube.com/watch?v=HfKBKQOyWHM)
 <!-- YT-PL-DEV-2020:END -->
 
 ---
