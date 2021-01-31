@@ -53,11 +53,11 @@
 ### 🎞️ Dev Videos Recently Watched
 
 <!-- YT-PL-DEV-2020:START -->
+- [Résultats du plus gros sondage pour dév. JS de 2020](https://www.youtube.com/watch?v=4FZoOFTtE8c)
 - [13 API géniales pour vos futurs projets !](https://www.youtube.com/watch?v=-6_kwaAZ-hY)
 - [Bitcoin mining with 15 lines of python code | Python Bitcoin Tutorial](https://www.youtube.com/watch?v=ZhnJ1bkIWWk)
 - [Build A Killer Stock Portfolio Using Python](https://www.youtube.com/watch?v=bvDkel5whUY)
 - [Vim Can Save You Hours Of Work](https://www.youtube.com/watch?v=bshMXXX40_4)
-- [PWA patterns for window and service worker communication](https://www.youtube.com/watch?v=cmRqQJBIp_A)
 <!-- YT-PL-DEV-2020:END -->
 
 ---
