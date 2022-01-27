@@ -25,10 +25,10 @@
 
 ### 🌱 About me
 
-- I'm a Husband, Developer, and [Self-Therapist][selftherapistwebsite]
+- I'm a Developer, and a [Self-Therapist][selftherapistwebsite]
 - I'm fluent in 🇫🇷 French, 🇪🇸 Spanish, and 🇬🇧 English
 - 🤔 I’m currently learning [ThreeJS][threejs], [NextJS][nextjs], [GastbyJS][gatsbyjs], & [GraphQL][graphql]
-- 🔭 **2021 Goals**: Contribute to Open Source projects
+- 🔭 **2022 Goals**: Contribute to Open Source projects
 - ⚡ **Fun facts**: I salute the sun every other morning for 15 minutes | I practice and write about [self-hypnosis][selftherapisthypnosis], [intermittent fasting][selftherapistfasting] and [so much more][selftherapistwebsite] | I'm a Reiki level 1 practitioner | I stay in shape through calisthenics | I'm currently learning piano improv | I'm passionate about bringing _meaningful_ micro-animations & 3D contents into mobile and desktop browser apps, _when it is relevant to the user experience_
 - 💬 Ask me about [Font-End / Back-end / Serverless JS Dev][discordcontactme] or even [Self-DEV][selftherapistwebsite]
 
