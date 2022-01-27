@@ -1,9 +1,9 @@
 ### ✨ Hi there, I'm Fred - aka [boostup][website] ✨
 
 [<img align="left" alt="boostup's Discord" width="24px" src="https://discord.com/assets/07dca80a102d4149e9736d4b162cff6f.ico" />][discordcontactme]
-[<img align="left" alt="LinkedIn" width="22px" src="https://brandlogos.net/wp-content/uploads/2016/06/linkedin-logo-512x512.png" />][linkedin]
+[<img align="left" alt="LinkedIn" width="27px" src="https://brandlogos.net/wp-content/uploads/2016/06/linkedin-logo-512x512.png" />][linkedin]
 [<img align="left" alt="Twitter" width="22px" src="https://www.iconpacks.net/icons/2/free-twitter-logo-icon-2429-thumb.png" style="color: white" />][twitter]
-[<img align="left" alt="YouTube" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/2560px-YouTube_full-color_icon_%282017%29.svg.png" />][youtube]
+[<img align="left" alt="YouTube" width="27px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/2560px-YouTube_full-color_icon_%282017%29.svg.png" />][youtube]
 [<img align="left" alt="Medium" width="22px" src="https://cdn-static-1.medium.com/_/fp/icons/favicon-rebrand-medium.3Y6xpZ-0FSdWDnPM3hSBIA.ico" />][selftherapistwebsite]
 [<img align="left" alt="Codepen" width="22px" src="https://static.codepen.io/assets/favicon/favicon-aec34940fbc1a6e787974dcd360f2c6b63348d4b1f4e06c77743096d55480f33.ico" />][codepenprofile]
 
