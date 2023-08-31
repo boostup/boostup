@@ -5,7 +5,7 @@
 [<img align="left" alt="Twitter" width="22px" src="https://www.iconpacks.net/icons/2/free-twitter-logo-icon-2429-thumb.png" style="color: white" />][twitter]
 [<img align="left" alt="YouTube" width="27px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/2560px-YouTube_full-color_icon_%282017%29.svg.png" />][youtube]
 [<img align="left" alt="Medium" width="22px" src="https://cdn-static-1.medium.com/_/fp/icons/favicon-rebrand-medium.3Y6xpZ-0FSdWDnPM3hSBIA.ico" />][selftherapistwebsite]
-[<img align="left" alt="Codepen" width="22px" src="https://static.codepen.io/assets/favicon/favicon-aec34940fbc1a6e787974dcd360f2c6b63348d4b1f4e06c77743096d55480f33.ico" />][codepenprofile]
+<!-- [<img align="left" alt="Codepen" width="22px" src="https://static.codepen.io/assets/favicon/favicon-aec34940fbc1a6e787974dcd360f2c6b63348d4b1f4e06c77743096d55480f33.ico" />][codepenprofile] -->
 
 ---
 
